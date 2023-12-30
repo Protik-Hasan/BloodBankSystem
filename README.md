@@ -11,10 +11,6 @@ A brief description of BloodDonationSystem.
 - [Contributing](#contributing)
 - [License](#license)
 
-## Getting Started
-
-Briefly describe what BloodDonationSystem does and how to get it up and running.
-
 ### Prerequisites
 
 Make sure you have the following installed:
@@ -27,5 +23,5 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/noushin007-Gb/BloodDonationSystem.git
-2. Then create a database in phpmyadmin using xampp named blood_donation_system. Then import the blood_donation_system.sql from the cloned files of github
+   git clone https://github.com/Protik-Hasan/BloodBankSystem.git
+2. Then create a database in PHP myadmin using xampp named blood_donation_system. Then import the blood_donation_system.sql from the cloned files of GitHub.
